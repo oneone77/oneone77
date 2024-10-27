@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oneone77,a interesting girl.
 - 👀 I’m interested in reading,watching film,eating delicious food,like photographing and everything interesting things.
-- 🌱 I’m currently learning data structure.
+- 🌱 I’m currently learning data structure and Java lunage.
 - 💞️ I’m looking to collaborate on a good performance in the field of computer science.
 - 📫 How to reach me qq:1206497668
 - 😄 Pronouns: sun
